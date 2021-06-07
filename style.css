@@ -1,0 +1,30 @@
+#start-btn
+{
+    width: 8%;
+    margin-bottom:15px;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+
+h1{
+    font-family: 'Lato', sans-serif;
+font-weight: bold;
+}
+body{
+  background-image: url("7ad02f879adec03736055e8a0a909349.png");
+  background-repeat: no-repeat;
+background-size: cover;
+}
